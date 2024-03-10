@@ -8,3 +8,5 @@
 **3. Open your game and open the workshop**
 
 **4. Find the guilded coin option and start the macro**
+
+![instructionguilded](https://github.com/DRZZ40000/Sol-Rng-Macros/assets/162851506/34cff6e4-2d5e-4cfe-b3e2-d0f2dae65856)
