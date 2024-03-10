@@ -1,4 +1,7 @@
-# How to use Guilded Coin macro
+# How to use these macro's
+
+## Guilded Coin Macro
+
 **1. Open your macro into tinytask**
 
 **2. Turn on continuous playback and set the speed to 50**
