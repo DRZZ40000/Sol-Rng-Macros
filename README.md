@@ -1,4 +1,4 @@
-# How to use these macro's
+# How to use the macros
 
 ## Guilded Coin Macro
 
